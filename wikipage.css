@@ -1,0 +1,50 @@
+div.bio {
+  float: right;
+  background-color: #191923;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+p.bio {
+  text-align: center;
+  color: #AE2D41;
+  font-weight: 500;
+  font-size: 18px;
+}
+
+img.bioimage {
+  align-content: center;
+  border-radius: 5px;
+  border-color: #AE2D41;
+  border-style: solid;
+  border-width: 10px;
+  width: 300px;
+  height: 300px;
+}
+
+.biotext {
+  display: none;
+}
+
+#name {
+  text-align: center;
+}
+
+hr {
+  height: 3px;
+  background-color: #474752;
+  opacity: 80%;
+  border: none;
+}
+
+.biobutton {
+  background-color: transparent;
+  display: inline;
+  border-radius: 5px;
+  border-color: transparent;
+  cursor: pointer;
+}
+
+.show {
+  display: block;
+}
